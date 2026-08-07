@@ -4,4 +4,22 @@ header{
     z-index: 1000;
     background: #2D6A4F;
     padding: 20px;
-} 
+}
+
+ .footer{
+    background:#1F5E50;
+    color:white;
+    text-align:center;
+    padding:40px 20px;
+    margin-top:50px;
+}
+
+.footer a{
+    color:white;
+    text-decoration:none;
+    margin:0 8px;
+}
+
+.footer a:hover{
+    color:#FFD54F;
+}
