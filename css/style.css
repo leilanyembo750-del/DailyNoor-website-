@@ -1,1 +1,7 @@
-Hsnsj
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #2D6A4F;
+    padding: 20px;
+} 
