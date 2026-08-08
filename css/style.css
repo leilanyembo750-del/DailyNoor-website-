@@ -279,4 +279,39 @@ footer p {
     .book-cover {
         height: 300px;
     }
+}/* =========================
+   MOBILE NAVIGATION
+   ========================= */
+
+@media (max-width: 768px) {
+
+    .nav-container {
+        padding: 14px 12px;
+    }
+
+    .logo {
+        font-size: 23px;
+    }
+
+    .nav-links {
+        gap: 8px;
+        justify-content: center;
+    }
+
+    .nav-links a {
+        font-size: 12px;
+    }
+
+    .hero h1 {
+        font-size: 38px;
+    }
+
+    .hero {
+        margin: 12px;
+    }
+
+    .section-heading h2 {
+        font-size: 27px;
+    }
+
 }
